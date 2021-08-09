@@ -11,7 +11,7 @@ sections:
         url: >-
           https://ibmyl040.s3.ca-tor.cloud-object-storage.appdomain.cloud/unchair/index.html
         style: primary
-    image: /images/Screen Shot 2021-06-22 at 10.22.00 AM.png
+    image: /images/Screen Shot 2021-07-06 at 1.48.05 PM.png
     image_alt: A smiling woman
     media_position: right
     media_width: sixty

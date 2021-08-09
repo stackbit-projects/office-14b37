@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: PROPOSAL DOCUMENT
+    title: DAN O'NEIL SHARED A FILE WITH YOU
     subtitle: >-
       NOTE : REVIEW PAGES 3 & 7 CAREFULLY BELOW AND GIVE US YOUR INSIGHT AND
       TAKE ON THE PROJECT

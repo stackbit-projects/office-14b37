@@ -13,7 +13,7 @@ sections:
     image: /images/5700413c-b994-4c3e-9578-68e3dc9380f8.jpeg
     image_alt: A smiling woman
     media_position: right
-    media_width: fifty
+    media_width: sixty
     align: left
     padding_top: large
     padding_bottom: large

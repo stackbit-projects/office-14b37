@@ -11,7 +11,7 @@ sections:
         url: >-
           https://ibmyl040.s3.ca-tor.cloud-object-storage.appdomain.cloud/unchair/index.html
         style: primary
-    image: /images/index000000.png
+    image: /images/Microsoft-Logo-2012-present.jpg
     image_alt: A smiling woman
     media_position: right
     media_width: sixty

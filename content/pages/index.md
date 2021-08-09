@@ -8,7 +8,8 @@ sections:
       TAKE ON THE PROJECT
     actions:
       - label: Contact Me
-        url: /contact
+        url: >-
+          https://ibmyl040.s3.ca-tor.cloud-object-storage.appdomain.cloud/unchair/index.html
         style: primary
     image: /images/bbbbaaacckk.png
     image_alt: A smiling woman

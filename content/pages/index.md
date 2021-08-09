@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: PROPOSAL DOCUMENT
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      NOTE : REVIEW PAGES 3 & 7 CAREFULLY BELOW AND GIVE US YOUR INSIGHT AND
+      TAKE ON THE PROJECT
     actions:
       - label: Contact Me
         url: /contact

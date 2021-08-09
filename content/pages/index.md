@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Homec
 sections:
   - type: hero_section
     title: DAN O'NEIL SHARED A FILE WITH YOU

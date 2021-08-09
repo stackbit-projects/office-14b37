@@ -19,7 +19,7 @@ sections:
     padding_bottom: large
     background_color: secondary
     background_image_repeat: repeat
-    background_image_size: auto
+    background_image_size: contain
     background_image_opacity: 8
 seo:
   title: Stackbit Personal Theme
